@@ -34,3 +34,7 @@
 * Menu options provided at the console for the user to select from.
 * Once user selects a menu option, an appropriate result is displayed according to the user input.
 * Finally, it provides the user with an option to exit the application.
+
+# USPs
+* Application capable to store data in database instead of files.
+* Interactive user interface rather than console based interface.
